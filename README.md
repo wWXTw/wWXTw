@@ -1,4 +1,4 @@
-## Hi there 👋  
+## About me 👋  
 - Major in Computer Science @ CSU
 - Focus: C/C++, Python, Go, ROS
 - Interests: Reinforce Learning & Deep Learning, Robotics, Distributed Systems
