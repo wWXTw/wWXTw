@@ -51,16 +51,21 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="CSS"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JS"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://vuejs.org/" target="_blank" title="Vue.js">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="65" alt="Vue"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.qt.io/" target="_blank" title="Qt">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="65" alt="Qt"/>
       </a>
     </td>
     <td>
@@ -81,6 +86,11 @@ Here are some ideas to get you started:
     <td>
       <a href="https://cn.ubuntu.com/" target="_blank" title="Ubuntu">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="65" alt="Ubuntu"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.ros.org/" target="_blank" title="ROS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="65" alt="ROS"/>
       </a>
     </td>
   </tr>
