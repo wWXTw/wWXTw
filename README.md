@@ -69,8 +69,8 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      <a href="https://www.oracle.com/database/" target="_blank" title="Oracle Database">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="65" alt="Oracle"/>
+      <a href="https://www.mysql.com/cn/" target="_blank" title="MySQL">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" height="65" alt="MySQL"/>
       </a>
     </td>
     <td>
