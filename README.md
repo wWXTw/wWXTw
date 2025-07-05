@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
-        <img src="" height="65" alt="C" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="65" alt="C" />
       </a>
     </td>
     <td>
